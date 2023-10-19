@@ -60,5 +60,3 @@ Se você tiver dúvidas, sugestões ou quiser discutir qualquer tópico relacion
 **E-mail:** thiagonasmto20@gmail.com
 
 **GitHub:** [thiagonasmto](https://github.com/thiagonasmto)
-
-Aproveite seus estudos e boa jornada no desenvolvimento de sistemas web!
