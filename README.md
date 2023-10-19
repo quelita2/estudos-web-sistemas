@@ -57,8 +57,8 @@ Contribuições são bem-vindas! Se você deseja adicionar informações, corre�
 ## Contato
 Se você tiver dúvidas, sugestões ou quiser discutir qualquer tópico relacionado, sinta-se à vontade para entrar em contato via e-mail ou abrir uma issue neste repositório.
 
-**E-mail:** seuemail@example.com
+**E-mail:** thiagonasmto20@gmail.com
 
-**GitHub:** [SeuPerfilGitHub](https://github.com/seuperfilgithub)
+**GitHub:** [thiagonasmto](https://github.com/thiagonasmto)
 
 Aproveite seus estudos e boa jornada no desenvolvimento de sistemas web!
