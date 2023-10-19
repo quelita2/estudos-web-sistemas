@@ -1,4 +1,4 @@
-# README - Repositório de Estudos de Desenvolvimento de Sistemas Web
+# Repositório de Estudos de Desenvolvimento de Sistemas Web
 
 Este repositório pessoal é dedicado a estudos e práticas relacionados ao desenvolvimento de sistemas web. Ele abrange uma ampla variedade de tópicos essenciais para qualquer desenvolvedor web, desde fundamentos de programação em Java até o uso de tecnologias populares como Spring Boot, HTML, SQL, Git, Docker, Maven, UML e análise de requisitos. Este README serve como um guia e descrição geral do que você pode encontrar neste repositório.
 
