@@ -1,8 +1,8 @@
-# Repositório de Estudos de Desenvolvimento de Sistemas Web
+# 🚀 Repositório de Estudos de Desenvolvimento de Sistemas Web
 
 Este repositório pessoal é dedicado a estudos e práticas relacionados ao desenvolvimento de sistemas web. Ele abrange uma ampla variedade de tópicos essenciais para qualquer desenvolvedor web, desde fundamentos de programação em Java até o uso de tecnologias populares como Spring Boot, HTML, SQL, Git, Docker, Maven, UML e análise de requisitos. Este README serve como um guia e descrição geral do que você pode encontrar neste repositório.
 
-## Tópicos Abordados
+## 📚 Tópicos Abordados
 
 ### Linguagem de Programação Java
 - **Introdução à Linguagem Java**: Conceitos básicos, estrutura de programas em Java.
@@ -51,12 +51,17 @@ Este repositório pessoal é dedicado a estudos e práticas relacionados ao dese
 ## Estrutura do Repositório
 O repositório é organizado em pastas e subpastas correspondentes aos tópicos acima. Cada tópico pode conter código de exemplo, tutoriais, documentos, e recursos de aprendizado relacionados.
 
-## Contribuições
+## ✅ Contribuições
 Contribuições são bem-vindas! Se você deseja adicionar informações, correções ou novos recursos a este repositório, sinta-se à vontade para abrir um pull request.
 
-## Contato
+## 📧 Contato
 Se você tiver dúvidas, sugestões ou quiser discutir qualquer tópico relacionado, sinta-se à vontade para entrar em contato via e-mail ou abrir uma issue neste repositório.
+<br>**E-mail:** <br>
+- quelitamiriam2@gmail.com<br>
+- thiagonasmto20@gmail.com
 
-**E-mail:** thiagonasmto20@gmail.com
+## 💻 Autores
 
-**GitHub:** [thiagonasmto](https://github.com/thiagonasmto)
+- [Quelita Míriam](https://github.com/quelita2) 👩‍💻
+
+- [Thiago Lopes](https://github.com/thiagonasmto) 👨‍💻 
