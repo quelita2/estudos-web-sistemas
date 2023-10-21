@@ -48,7 +48,7 @@ Este repositório pessoal é dedicado a estudos e práticas relacionados ao dese
 - **Modelagem UML**: Uso de diagramas UML para representar estruturas e processos de sistemas.
 - **Análise de Requisitos**: Coleta e documentação de requisitos para o desenvolvimento de sistemas web.
 
-## Estrutura do Repositório
+## 📊 Estrutura do Repositório
 O repositório é organizado em pastas e subpastas correspondentes aos tópicos acima. Cada tópico pode conter código de exemplo, tutoriais, documentos, e recursos de aprendizado relacionados.
 
 ## ✅ Contribuições
